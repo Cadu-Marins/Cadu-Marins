@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/32909912/README.md)
 # Olá, eu sou o Carlos Eduardo! 👋
 
-Estudante de **Engenharia de Software** na PUC (3º semestre), de Indaiatuba, SP.
+Estudante de **Engenharia de Software** na PUC-Campinas (3º semestre)
 Estou em busca de um **estágio na área de tecnologia** para aprender na prática, contribuir com a equipe e evoluir como desenvolvedor.
 
 ## 🧑‍💻 Sobre mim
